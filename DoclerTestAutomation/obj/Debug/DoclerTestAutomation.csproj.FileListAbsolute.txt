@@ -1,0 +1,14 @@
+c:\users\bali113\documents\visual studio 2015\Projects\DoclerTestAutomation\DoclerTestAutomation\bin\Debug\DoclerTestAutomation.dll.config
+c:\users\bali113\documents\visual studio 2015\Projects\DoclerTestAutomation\DoclerTestAutomation\bin\Debug\DoclerTestAutomation.dll
+c:\users\bali113\documents\visual studio 2015\Projects\DoclerTestAutomation\DoclerTestAutomation\bin\Debug\DoclerTestAutomation.pdb
+c:\users\bali113\documents\visual studio 2015\Projects\DoclerTestAutomation\DoclerTestAutomation\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\bali113\documents\visual studio 2015\Projects\DoclerTestAutomation\DoclerTestAutomation\bin\Debug\Newtonsoft.Json.dll
+c:\users\bali113\documents\visual studio 2015\Projects\DoclerTestAutomation\DoclerTestAutomation\bin\Debug\nunit.framework.dll
+c:\users\bali113\documents\visual studio 2015\Projects\DoclerTestAutomation\DoclerTestAutomation\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\bali113\documents\visual studio 2015\Projects\DoclerTestAutomation\DoclerTestAutomation\bin\Debug\WebDriver.dll
+c:\users\bali113\documents\visual studio 2015\Projects\DoclerTestAutomation\DoclerTestAutomation\bin\Debug\Newtonsoft.Json.xml
+c:\users\bali113\documents\visual studio 2015\Projects\DoclerTestAutomation\DoclerTestAutomation\bin\Debug\nunit.framework.xml
+c:\users\bali113\documents\visual studio 2015\Projects\DoclerTestAutomation\DoclerTestAutomation\bin\Debug\WebDriver.xml
+c:\users\bali113\documents\visual studio 2015\Projects\DoclerTestAutomation\DoclerTestAutomation\obj\Debug\DoclerTestAutomation.dll
+c:\users\bali113\documents\visual studio 2015\Projects\DoclerTestAutomation\DoclerTestAutomation\obj\Debug\DoclerTestAutomation.pdb
+c:\users\bali113\documents\visual studio 2015\Projects\DoclerTestAutomation\DoclerTestAutomation\bin\Debug\chromedriver.exe
